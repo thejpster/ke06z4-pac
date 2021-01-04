@@ -1,4 +1,4 @@
-# ke06z4-pac
+# ke06z4-pac - PAC for NXP Kinetis MKE06Zx microcontrollers
 
 This is a [Peripheral Access Crate] for the NXP Kinetis [MKE06Z4] series of microcontrollers.
 
