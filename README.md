@@ -15,3 +15,8 @@ This crate has been built using [svd2rust] version 0.17, using NXP's [MKE06Z4 De
 The contents of this crate are auto-generated and licensed as [CC0]. Note that the underlying SVD file is licensed by NXP under a BSD-3-Clause licence.
 
 [CC0]: https://creativecommons.org/publicdomain/zero/1.0/
+
+## Changelog
+
+See <CHANGELOG.md>.
+
